@@ -1,5 +1,5 @@
 # Vanilla-JS-Weather-App
-Running Here : https://app.netlify.com/sites/unruffled-swirles-ebac18/overview
+Running Here : https://unruffled-swirles-ebac18.netlify.app/
 
 * Displays Realtime Weather Statistics
 * Uses Open Weather Map API
